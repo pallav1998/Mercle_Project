@@ -1,7 +1,6 @@
-#Project Image
+# Project Image
 
-<img src="https://github.com/pallav1998/Mercle_Project/blob/master/Capture.PNG" alt="demo" />
-
+![image description](https://github.com/pallav1998/Mercle_Project/blob/master/Capture.PNG)
 
 # Getting Started with Create React App
 
