@@ -1,3 +1,8 @@
+#Project Image
+
+<img src="https://github.com/pallav1998/Mercle_Project/blob/master/Capture.PNG" alt="demo" />
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
